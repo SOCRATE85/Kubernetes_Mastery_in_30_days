@@ -1,4 +1,4 @@
-# Day 1: Introduction to Kubernetes
+# Day 01: Introduction to Kubernetes
 
 
 Welcome to Day 1 of the Kubernetes 30-Day Learning Challenge! 🚀 Today, we'll dive into the fundamental concepts of Kubernetes and understand why it's essential in modern containerized applications.
